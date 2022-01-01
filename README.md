@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/tolaogundipe/Frontend-Mentor---NFT-preview-card-component-solution)
-- Live Site URL: [Add live site URL here](https://tola-ogundipe-nft-preview-card.netlify.app/)
+- Solution URL: [View Solution here](https://github.com/tolaogundipe/Frontend-Mentor---NFT-preview-card-component-solution)
+- Live Site URL: [View live site here](https://tola-ogundipe-nft-preview-card.netlify.app/)
 
 ## My process
 
