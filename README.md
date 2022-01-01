@@ -45,8 +45,6 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
 I was able to practice semantic HTML, CSS flex box, absolute and relative positioning, responsive units, CSS animations and CSS functions. I learned how to target a container for hover animation. I am particularly proud that i was able to deliver this design optimised for both mobile and desktop without using media queries.
  
 I am proud of the following lines of code:
