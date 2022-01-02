@@ -60,11 +60,11 @@ body{
     opacity: 100%;
 }
 
-.card-text h2{
+.card-text h1{
     color: hsl(0, 0%, 100%);
 }
 
-.card-text h2:hover{
+.card-text h1:hover{
     color: hsl(178, 100%, 50%);
     cursor: pointer;
 }
